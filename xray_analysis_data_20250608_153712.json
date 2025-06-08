@@ -1,0 +1,26 @@
+{
+  "analysis_metadata": {
+    "sample_name": "Fe_sample",
+    "analysis_date": "2025-06-08 15:37:12",
+    "analyst": "XrayLarch Automated System",
+    "software_version": "XrayLarch + Custom ML Pipeline v1.0"
+  },
+  "sample_properties": {
+    "energy_range": "7000.0 - 7200.0 eV",
+    "data_points": 200,
+    "edge_energy": 7112.0,
+    "edge_jump": 1.5
+  },
+  "analysis_results": {
+    "total_peaks_detected": 4,
+    "validated_peaks": 3,
+    "peak_validation_rate": 75.0,
+    "snr_improvement": 299.08864753267466,
+    "noise_reduction_achieved": true
+  },
+  "quality_metrics": {
+    "data_quality": "Excellent",
+    "peak_detection_confidence": "Medium",
+    "analysis_reliability": "Validated"
+  }
+}
